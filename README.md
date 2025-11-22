@@ -6,7 +6,7 @@ O objetivo foi criar uma API REST moderna, performática, escalável e seguindo 
 
 
 ## 🧰 Tecnologias Utilizadas
-###🔹 TypeScript
+### 🔹 TypeScript
 
 Linguagem que adiciona tipagem estática ao JavaScript, trazendo mais segurança e organização ao projeto.
 
